@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Don't worry I'll add useful text later. c:
+I pay my bills; my bills are PAID!
 Use the left arrow to go back!
